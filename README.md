@@ -4,7 +4,8 @@
 
 ## 🚀 **Data Enthusiast | Analytics & Visualization**  
 
-🔎 Passionné par l'analyse de données, je suis constamment en quête de nouvelles approches pour transformer les données en **insights exploitables**. Mon expertise repose sur des outils puissants comme **Python, R, Tableau et Spark** pour explorer, traiter et visualiser l'information.  
+🔎 Passionné par l'analyse de données, je suis constamment en quête de nouvelles approches pour transformer les données en **insights exploitables**. 
+Mon expertise repose sur des outils puissants comme **Python, R, Tableau et Spark** pour explorer, traiter et visualiser l'information.  
 
 ### **📚 Ce que j’apprends actuellement**  
 Je me perfectionne dans :  
