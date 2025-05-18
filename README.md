@@ -1,5 +1,3 @@
-Bien sûr ! Voici une version améliorée de ta présentation GitHub, avec un style plus engageant et professionnel :  
-
 ---
 
 # 👋 Hello, I'm **Mustapha Rherrad**  
