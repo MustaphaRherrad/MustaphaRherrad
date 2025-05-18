@@ -27,8 +27,6 @@ Je trouve toujours une façon originale de visualiser des tendances… même dan
 
 ---
 
-Tu peux bien sûr personnaliser cette version selon tes préférences et ton style ! 😃  
-Besoin d'autres ajustements ? 🚀
 
 
 <!---
